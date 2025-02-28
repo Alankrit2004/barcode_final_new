@@ -1,0 +1,8 @@
+flask
+pillow
+psycopg2
+python-barcode
+gunicorn
+supabase
+python-dotenv
+qrcode
